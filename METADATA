@@ -1,17 +1,3 @@
-name: "oauth2client"
-description:
-    "This is a client library for accessing resources protected by OAuth 2.0."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://pypi.org/project/oauth2client"
-  }
-  url {
-    type: GIT
-    value: "https://github.com/google/oauth2client"
-  }
-  version: "v3.0.0"
-  license_type: NOTICE
-  last_upgrade_date { year: 2018 month: 6 day: 6 }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:78cd177b8ce371fe02d4bf3d6ebea63c48988bc68016509b051932ed3d97ed32
+size 384

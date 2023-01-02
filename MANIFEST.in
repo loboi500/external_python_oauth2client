@@ -1,2 +1,3 @@
-include README.md
-recursive-exclude tests *
+version https://git-lfs.github.com/spec/v1
+oid sha256:e19a3caaa161511070e71d38dc7c287583fe08db0d15cfb49ae38fe745db7ab2
+size 44
